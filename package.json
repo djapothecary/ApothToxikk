@@ -1,0 +1,30 @@
+{
+	"name": "apoth-toxikk",
+	"displayName": "Apoth Toxikk Theme Material",
+	"description": "Dark minimalistic theme with yellow accents and the Dark+ Material Syntax",
+	"icon": "images/icon.png",
+	"author": "DJ Apothecary",
+	"publisher": "djapothecary",
+	"repository": "https://github.com/djapothecary/vscode-apoth-toxikk-theme",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.31.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Apoth Toxikk Theme Material",
+				"uiTheme": "vs-dark",
+				"path": "./themes/apoth-toxikk.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "",
+		"publisherId": "",
+		"publisherDisplayName": "DJ Apothecary"
+	}
+}
